@@ -30,4 +30,6 @@ cd assignment3
 
 pip install -r requirements.txt  # Install dependencies
 
+# Screenshot
+
 ![alt text](https://i.imgur.com/eop5j0K.png)
